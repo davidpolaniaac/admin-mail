@@ -1,0 +1,5 @@
+17/6/2016;15:54:58;Inicio el programa
+17/6/2016;16:14:41;Inicio del programa
+17/6/2016;16:15:45;leido el mensaje:Fwd: Offerte 123068 bij Coolblue zakelijk met uw referentie
+17/6/2016;16:15:46;Descarga de arhvio :Offerte Coolblue zakelijk .pdf
+17/6/2016;16:15:47;Guarda archivo :b:\\pdfs\3-Offerte Coolblue zakelijk .pdf
